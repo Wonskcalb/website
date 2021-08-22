@@ -1,10 +1,10 @@
-/* FONTS IMAGES 
+/* FONTS IMAGES
 ======================================== */
 .code-font {
 	font-family: 'Inconsolata', monospace;
 }
 
-/* COVER IMAGES 
+/* COVER IMAGES
 ======================================== */
 #__cover{
 	background-image: url("../img/cover.jpg");
@@ -24,11 +24,10 @@
 
 .uk-button-default{
 	border: 1px solid #db0000;
-	color: #fff;
 }
 
 .uk-button-default:hover{
 	border: 1px solid #db0000;
 	background-color: #db0000;
-	color: #444;
+	color: #fff;
 }
